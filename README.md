@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dchaurasiya8589@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aghg-79Fv1XeB-touM8tIwuEomzOtQO8/view?usp=sharing](https://drive.google.com/file/d/1aghg-79Fv1XeB-touM8tIwuEomzOtQO8/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11T5AQy3elvb6p6atTRBe1ri9RTMYrwG2/view?usp=sharing](https://drive.google.com/file/d/11T5AQy3elvb6p6atTRBe1ri9RTMYrwG2/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
