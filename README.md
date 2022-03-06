@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-chaurasiyaa" alt="deepak-chaurasiyaa" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 📫 How to reach me **dchaurasiya8589@gmail.com**
 
